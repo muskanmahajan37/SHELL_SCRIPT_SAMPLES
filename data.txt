@@ -1,0 +1,125 @@
+Content-type: text/plain
+
+CGI/1.0 test script report:
+
+environment settings:
+ACLOCAL_PATH=/mingw64/share/aclocal:/usr/share/aclocal
+ALLUSERSPROFILE='C:\ProgramData'
+APPDATA='C:\Users\ag16000\AppData\Roaming'
+BASH=/bin/bash
+BASHOPTS=cmdhist:complete_fullquote:extquote:force_fignore:hostcomplete:interactive_comments:progcomp:promptvars:sourcepath
+BASH_ALIASES=()
+BASH_ARGC=()
+BASH_ARGV=()
+BASH_CMDS=()
+BASH_LINENO=([0]="0")
+BASH_SOURCE=([0]="./server_env.sh")
+BASH_VERSINFO=([0]="4" [1]="4" [2]="19" [3]="2" [4]="release" [5]="x86_64-pc-msys")
+BASH_VERSION='4.4.19(2)-release'
+COMMONPROGRAMFILES='C:\Program Files\Common Files'
+COMPUTERNAME=LDRL46S2
+COMSPEC='C:\WINDOWS\system32\cmd.exe'
+CONFIG_SITE=/mingw64/etc/config.site
+CommonProgramW6432='C:\Program Files\Common Files'
+DEFLOGDIR='C:\ProgramData\McAfee\Endpoint Security\Logs'
+DIRSTACK=()
+DISPLAY=needs-to-be-defined
+DataConnectorLibPath='C:\Program Files\Teradata\Client\15.10\bin\;C:\Program Files (x86)\Teradata\Client\15.10\bin\'
+EUID=7284769
+EXEPATH='C:\Program Files\Git'
+GROUPS=()
+HOME=/c/Users/ag16000
+HOMEDRIVE=C:
+HOMEPATH='\Users\ag16000'
+HOSTNAME=LDRL46S2
+HOSTTYPE=x86_64
+IFS=$' \t\n'
+INFA_TRUSTSTORE='c:\Informatica\10.1.1\clients\shared\security'
+INFOPATH=/usr/local/info:/usr/share/info:/usr/info:/share/info
+JAVA_HOME='C:\Program Files\Java\jdk1.8.0_45'
+LANG=en_US.UTF-8
+LOCALAPPDATA='C:\Users\ag16000\AppData\Local'
+LOGONSERVER='\\TL01PWPADS004'
+MACHTYPE=x86_64-pc-msys
+MANPATH=/mingw64/local/man:/mingw64/share/man:/usr/local/man:/usr/share/man:/usr/man:/share/man
+MINGW_CHOST=x86_64-w64-mingw32
+MINGW_PACKAGE_PREFIX=mingw-w64-x86_64
+MINGW_PREFIX=/mingw64
+MSYSTEM=MINGW64
+MSYSTEM_CARCH=x86_64
+MSYSTEM_CHOST=x86_64-w64-mingw32
+MSYSTEM_PREFIX=/mingw64
+NUMBER_OF_PROCESSORS=12
+OLDPWD=/c/Users/ag16000/Desktop/P_PRACTISE
+OPTERR=1
+OPTIND=1
+ORIGINAL_PATH='/mingw64/bin:/usr/bin:/c/Users/ag16000/bin:/c/Informatica/10.1.1/clients/tools/datadirect:/c/Informatica/10.1.1/clients/tools/odbcdrv:/c/Informatica/10.1.1/clients/tools/jdbcdrv:/c/Informatica/10.1.1/clients/tools/sharedlibs:/c/Program Files/Teradata/Client/15.10/bin:/c/Program Files (x86)/Teradata/Client/15.10/bin:/c/ProgramData/Oracle/Java/javapath:/c/Program Files (x86)/RSA SecurID Token Common:/c/Program Files/RSA SecurID Token Common:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/Program Files/Common Files/Hitachi ID:/c/Program Files/Java/jdk1.8.0_45/bin:/c/Program Files (x86)/Java/jre1.8.0_45/bin:/c/Program Files (x86)/Java/jre7/bin:/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/110/Tools/Binn:/c/Program Files (x86)/Microsoft SQL Server/120/Tools/Binn/ManagementStudio:/c/Program Files (x86)/Microsoft SQL Server/120/Tools/Binn:/c/Program Files/Microsoft SQL Server/120/Tools/Binn:/c/Program Files (x86)/Microsoft SQL Server/120/DTS/Binn:/c/Program Files/Microsoft SQL Server/120/DTS/Binn:/c/Users/ag16000/AppData/Local/Programs/Python/Python37-32/Scripts:/c/Users/ag16000/AppData/Local/Programs/Python/Python37-32:/c/Users/ag16000/AppData/Local/Programs/Python/Python37-32/python.exe:/c/Users/ag16000/AppData/Roaming/Python/Python37/Scripts:/c/flutter/bin:/c/Program Files/Android/Android Studio/bin:/bin/sh.exe:/bin/bash.exe:/c/Users/ag16000/AppData/Local/Android/Sdk:/c/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin:/c/xampp/php:/c/xampp/mysql/bin:/c/xampp/perl/bin:/c/Program Files/nodejs:/c/Program Files/nodejs:/c/Sublime Text 3/sublime_text.exe:/c/Users/ag16000/AppData/Local/Programs/Python/Python37-32/Scripts:/c/Users/ag16000/AppData/Local/Programs/Python/Python37-32:/c/Users/ag16000/AppData/Local/Microsoft/WindowsApps:/c/Users/ag16000/AppData/Local/JetBrains/PyCharm Community Edition 2018.3.5/bin:/c/Program Files/Python/Python371/python.exe:/c/ProgramData/Oracle/Java/javapath:/c/Users/ag16000/AppData/Local/Programs/Microsoft VS Code/bin:/c/Users/ag16000/AppData/Roaming/Python/Python37/Scripts:/c/flutter/bin:/c/Program Files/Android/Android Studio/bin:/bin/sh.exe:/bin/bash.exe:/c/Users/ag16000/AppData/Local/Android/Sdk:/c/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin:/c/xampp/php:/c/xampp/mysql/bin:/c/xampp/perl/bin:/c/Users/ag16000/AppData/Roaming/npm:/c/Program Files/nodejs:/c/Sublime Text 3/sublime_text.exe'
+ORIGINAL_TEMP=/tmp
+ORIGINAL_TMP=/tmp
+OS=Windows_NT
+OSTYPE=msys
+OneDrive='C:\Users\Administrator\OneDrive'
+PATH='/c/Users/ag16000/bin:/mingw64/bin:/usr/local/bin:/usr/bin:/bin:/mingw64/bin:/usr/bin:/c/Users/ag16000/bin:/c/Informatica/10.1.1/clients/tools/datadirect:/c/Informatica/10.1.1/clients/tools/odbcdrv:/c/Informatica/10.1.1/clients/tools/jdbcdrv:/c/Informatica/10.1.1/clients/tools/sharedlibs:/c/Program Files/Teradata/Client/15.10/bin:/c/Program Files (x86)/Teradata/Client/15.10/bin:/c/ProgramData/Oracle/Java/javapath:/c/Program Files (x86)/RSA SecurID Token Common:/c/Program Files/RSA SecurID Token Common:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/Program Files/Common Files/Hitachi ID:/c/Program Files/Java/jdk1.8.0_45/bin:/c/Program Files (x86)/Java/jre1.8.0_45/bin:/c/Program Files (x86)/Java/jre7/bin:/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/110/Tools/Binn:/c/Program Files (x86)/Microsoft SQL Server/120/Tools/Binn/ManagementStudio:/c/Program Files (x86)/Microsoft SQL Server/120/Tools/Binn:/c/Program Files/Microsoft SQL Server/120/Tools/Binn:/c/Program Files (x86)/Microsoft SQL Server/120/DTS/Binn:/c/Program Files/Microsoft SQL Server/120/DTS/Binn:/c/Users/ag16000/AppData/Local/Programs/Python/Python37-32/Scripts:/c/Users/ag16000/AppData/Local/Programs/Python/Python37-32:/c/Users/ag16000/AppData/Local/Programs/Python/Python37-32/python.exe:/c/Users/ag16000/AppData/Roaming/Python/Python37/Scripts:/c/flutter/bin:/c/Program Files/Android/Android Studio/bin:/bin/sh.exe:/bin/bash.exe:/c/Users/ag16000/AppData/Local/Android/Sdk:/c/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin:/c/xampp/php:/c/xampp/mysql/bin:/c/xampp/perl/bin:/c/Program Files/nodejs:/c/Program Files/nodejs:/c/Sublime Text 3/sublime_text.exe:/c/Users/ag16000/AppData/Local/Programs/Python/Python37-32/Scripts:/c/Users/ag16000/AppData/Local/Programs/Python/Python37-32:/c/Users/ag16000/AppData/Local/Microsoft/WindowsApps:/c/Users/ag16000/AppData/Local/JetBrains/PyCharm Community Edition 2018.3.5/bin:/c/Program Files/Python/Python371/python.exe:/c/ProgramData/Oracle/Java/javapath:/c/Users/ag16000/AppData/Local/Programs/Microsoft VS Code/bin:/c/Users/ag16000/AppData/Roaming/Python/Python37/Scripts:/c/flutter/bin:/c/Program Files/Android/Android Studio/bin:/bin/sh.exe:/bin/bash.exe:/c/Users/ag16000/AppData/Local/Android/Sdk:/c/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin:/c/xampp/php:/c/xampp/mysql/bin:/c/xampp/perl/bin:/c/Users/ag16000/AppData/Roaming/npm:/c/Program Files/nodejs:/c/Sublime Text 3/sublime_text.exe:/usr/bin/vendor_perl:/usr/bin/core_perl'
+PATHEXT='.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+PIPESTATUS=([0]="0")
+PIP_HOME='C:\Users\ag16000\AppData\Local\Programs\Python\Python37-32\Scripts'
+PKG_CONFIG_PATH=/mingw64/lib/pkgconfig:/mingw64/share/pkgconfig
+PLINK_PROTOCOL=ssh
+PPID=19788
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER='Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=9e0a
+PROGRAMFILES='C:\Program Files'
+PROMPT='$P$G'
+PS4='+ '
+PSModulePath='C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\PowerShell\Modules\'
+PUBLIC='C:\Users\Public'
+PWD=/c/Users/ag16000/Desktop/P_PRACTISE/SH_PRACTICE
+PYTHON_HOME='C:\Users\ag16000\AppData\Local\Programs\Python\Python37-32\python.exe'
+ProgramData='C:\ProgramData'
+ProgramW6432='C:\Program Files'
+SESSIONNAME=Console
+SHELL=/usr/bin/bash
+SHELLOPTS=braceexpand:hashall:interactive-comments:noglob
+SHLVL=2
+SSH_ASKPASS=/mingw64/libexec/git-core/git-gui--askpass
+SYSTEMDRIVE=C:
+SYSTEMROOT='C:\WINDOWS'
+TEMP=/tmp
+TERM=cygwin
+TMP=/tmp
+TMPDIR=/tmp
+UATDATA='C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77'
+UID=7284769
+USERDNSDOMAIN=US.AD.WELLPOINT.COM
+USERDOMAIN=US
+USERDOMAIN_ROAMINGPROFILE=US
+USERNAME=AG16000
+USERPROFILE='C:\Users\ag16000'
+WINDIR='C:\WINDOWS'
+_=settings:
+
+whereis bash?
+who are we?
+4 4 19 2 release x86_64-pc-msys
+
+argc is 0. argv is .
+
+SERVER_SOFTWARE =
+SERVER_NAME =
+GATEWAY_INTERFACE =
+SERVER_PROTOCOL =
+SERVER_PORT =
+REQUEST_METHOD =
+HTTP_ACCEPT = 
+PATH_INFO = 
+PATH_TRANSLATED = 
+SCRIPT_NAME = 
+QUERY_STRING = 
+REMOTE_HOST =
+REMOTE_ADDR =
+REMOTE_USER =
+AUTH_TYPE =
+CONTENT_TYPE =
+CONTENT_LENGTH =
